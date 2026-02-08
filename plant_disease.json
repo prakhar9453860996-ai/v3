@@ -1,0 +1,314 @@
+[
+    {
+        "name": "Apple___Apple_scab",
+        "name_hi": "सेब - सेब की पपड़ी (Apple Scab)",
+        "cause": "Fungus Venturia inaequalis. Favorable conditions are cool, wet weather.",
+        "cause_hi": "फंगस वेंचुरिया इनकुएक्वालिस। ठंडे और गीले मौसम में यह तेजी से फैलता है।",
+        "cure": "Use fungicides and resistant apple varieties. Prune and destroy infected leaves.",
+        "cure_hi": "फफूंदनाशक का उपयोग करें। संक्रमित पत्तियों को काटकर नष्ट करें।"
+    },
+    {
+        "name": "Apple___Black_rot",
+        "name_hi": "सेब - काला सड़न (Black Rot)",
+        "cause": "Caused by the fungus Botryosphaeria obtusa.",
+        "cause_hi": "यह Botryosphaeria obtusa नामक फंगस के कारण होता है।",
+        "cure": "Prune and remove infected areas. Apply fungicides during the growing season.",
+        "cure_hi": "संक्रमित भागों को काटकर हटा दें। फफूंदनाशक का छिड़काव करें।"
+    },
+    {
+        "name": "Apple___Cedar_apple_rust",
+        "name_hi": "सेब - देवदार सेब जंग (Cedar Apple Rust)",
+        "cause": "Fungus Gymnosporangium juniperi-virginianae. Requires junipers as an alternate host.",
+        "cause_hi": "यह एक फंगस के कारण होता है जिसे अपने जीवन चक्र के लिए जुनिपर के पेड़ों की आवश्यकता होती है।",
+        "cure": "Remove nearby juniper hosts. Use resistant varieties and fungicides.",
+        "cure_hi": "आसपास के जुनिपर के पेड़ों को हटा दें। प्रतिरोधी किस्मों का उपयोग करें।"
+    },
+    {
+        "name": "Apple___healthy",
+        "name_hi": "सेब - स्वस्थ (Healthy)",
+        "cause": "No disease present.",
+        "cause_hi": "कोई बीमारी नहीं। पौधा स्वस्थ है।",
+        "cure": "Maintain good cultural practices for optimal health.",
+        "cure_hi": "अच्छी देखभाल जारी रखें।"
+    },
+    {
+        "name": "Background_without_leaves",
+        "name_hi": "कोई पत्ता नहीं (No Leaf)",
+        "cause": "No disease or plant detected.",
+        "cause_hi": "कोई पौधा या बीमारी नहीं मिली। कृपया पत्ते की स्पष्ट फोटो लें।",
+        "cure": "Not applicable.",
+        "cure_hi": "लागू नहीं।"
+    },
+    {
+        "name": "Blueberry___healthy",
+        "name_hi": "ब्लूबेरी - स्वस्थ (Healthy)",
+        "cause": "No disease present.",
+        "cause_hi": "कोई बीमारी नहीं। पौधा स्वस्थ है।",
+        "cure": "Maintain good cultural practices for optimal health.",
+        "cure_hi": "अच्छी देखभाल जारी रखें।"
+    },
+    {
+        "name": "Cherry___Powdery_mildew",
+        "name_hi": "चेरी - पाउडरी मिल्ड्यू (Powdery Mildew)",
+        "cause": "Fungus Podosphaera clandestina.",
+        "cause_hi": "यह पोडोस्फेरा क्लैंडस्टिना नामक फंगस के कारण होता है।",
+        "cure": "Apply sulfur-based or fungicide treatments. Ensure good air circulation.",
+        "cure_hi": "सल्फर आधारित फफूंदनाशक का प्रयोग करें। हवा का अच्छा प्रवाह सुनिश्चित करें।"
+    },
+    {
+        "name": "Cherry___healthy",
+        "name_hi": "चेरी - स्वस्थ (Healthy)",
+        "cause": "No disease present.",
+        "cause_hi": "कोई बीमारी नहीं। पौधा स्वस्थ है।",
+        "cure": "Maintain good cultural practices for optimal health.",
+        "cure_hi": "अच्छी देखभाल जारी रखें।"
+    },
+    {
+        "name": "Corn___Cercospora_leaf_spot Gray_leaf_spot",
+        "name_hi": "मक्का - ग्रे लीफ स्पॉट (Gray Leaf Spot)",
+        "cause": "Fungus Cercospora zeae-maydis.",
+        "cause_hi": "यह सर्कोस्पोरा ज़ी-मैडिस फंगस के कारण होता है।",
+        "cure": "Use resistant hybrids and fungicide sprays.",
+        "cure_hi": "प्रतिरोधी किस्मों का उपयोग करें और फफूंदनाशक का छिड़काव करें।"
+    },
+    {
+        "name": "Corn___Common_rust",
+        "name_hi": "मक्का - साधारण जंग (Common Rust)",
+        "cause": "Fungus Puccinia sorghi.",
+        "cause_hi": "यह पक्सिनिया सोरघी नामक फंगस के कारण होता है।",
+        "cure": "Apply fungicides and plant resistant varieties.",
+        "cure_hi": "फफूंदनाशक का प्रयोग करें और प्रतिरोधी किस्में उगाएं।"
+    },
+    {
+        "name": "Corn___Northern_Leaf_Blight",
+        "name_hi": "मक्का - उत्तरी पत्ती झुलसा (Northern Leaf Blight)",
+        "cause": "Fungus Exserohilum turcicum.",
+        "cause_hi": "यह Exserohilum turcicum फंगस के कारण होता है।",
+        "cure": "Use resistant varieties and fungicides.",
+        "cure_hi": "प्रतिरोधी किस्मों और फफूंदनाशकों का प्रयोग करें।"
+    },
+    {
+        "name": "Corn___healthy",
+        "name_hi": "मक्का - स्वस्थ (Healthy)",
+        "cause": "No disease present.",
+        "cause_hi": "कोई बीमारी नहीं। पौधा स्वस्थ है।",
+        "cure": "Maintain good cultural practices for optimal health.",
+        "cure_hi": "अच्छी देखभाल जारी रखें।"
+    },
+    {
+        "name": "Grape___Black_rot",
+        "name_hi": "अंगूर - काला सड़न (Black Rot)",
+        "cause": "Fungus Guignardia bidwellii.",
+        "cause_hi": "यह Guignardia bidwellii फंगस के कारण होता है।",
+        "cure": "Prune infected areas and apply fungicides.",
+        "cure_hi": "संक्रमित भागों को हटा दें और फफूंदनाशक का प्रयोग करें।"
+    },
+    {
+        "name": "Grape___Esca_(Black_Measles)",
+        "name_hi": "अंगूर - एस्का (Esca/Black Measles)",
+        "cause": "Fungal complex including Phaeomoniella chlamydospora.",
+        "cause_hi": "यह कई तरह के फंगस के संक्रमण से होता है।",
+        "cure": "Remove infected wood. Avoid injuries to vines.",
+        "cure_hi": "संक्रमित लकड़ी को हटा दें। लताओं को चोट लगने से बचाएं।"
+    },
+    {
+        "name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "name_hi": "अंगूर - पत्ती झुलसा (Leaf Blight)",
+        "cause": "Fungus Pseudocercospora vitis.",
+        "cause_hi": "यह स्यूडोसर्कोस्पोरा विटिस फंगस के कारण होता है।",
+        "cure": "Apply fungicides and manage vineyard hygiene.",
+        "cure_hi": "फफूंदनाशक का प्रयोग करें और खेत की सफाई रखें।"
+    },
+    {
+        "name": "Grape___healthy",
+        "name_hi": "अंगूर - स्वस्थ (Healthy)",
+        "cause": "No disease present.",
+        "cause_hi": "कोई बीमारी नहीं। पौधा स्वस्थ है।",
+        "cure": "Maintain good cultural practices for optimal health.",
+        "cure_hi": "अच्छी देखभाल जारी रखें।"
+    },
+    {
+        "name": "Orange___Haunglongbing_(Citrus_greening)",
+        "name_hi": "संतरा - साइट्रस ग्रीनिंग (Citrus Greening)",
+        "cause": "Bacterium Candidatus Liberibacter spp. Spread by psyllid insects.",
+        "cause_hi": "यह बैक्टीरिया के कारण होता है जो कीड़ों द्वारा फैलता है।",
+        "cure": "Control psyllid population and remove infected trees.",
+        "cure_hi": "कीड़ों को नियंत्रित करें और संक्रमित पेड़ों को हटा दें।"
+    },
+    {
+        "name": "Peach___Bacterial_spot",
+        "name_hi": "आड़ू - बैक्टीरियल स्पॉट (Bacterial Spot)",
+        "cause": "Bacterium Xanthomonas campestris pv. pruni.",
+        "cause_hi": "यह Xanthomonas बैक्टीरिया के कारण होता है।",
+        "cure": "Use resistant varieties and copper-based bactericides.",
+        "cure_hi": "प्रतिरोधी किस्मों और तांबा युक्त जीवाणुनाशकों का प्रयोग करें।"
+    },
+    {
+        "name": "Peach___healthy",
+        "name_hi": "आड़ू - स्वस्थ (Healthy)",
+        "cause": "No disease present.",
+        "cause_hi": "कोई बीमारी नहीं। पौधा स्वस्थ है।",
+        "cure": "Maintain good cultural practices for optimal health.",
+        "cure_hi": "अच्छी देखभाल जारी रखें।"
+    },
+    {
+        "name": "Pepper,_bell___Bacterial_spot",
+        "name_hi": "शिमला मिर्च - बैक्टीरियल स्पॉट (Bacterial Spot)",
+        "cause": "Bacterium Xanthomonas campestris pv. vesicatoria.",
+        "cause_hi": "यह Xanthomonas बैक्टीरिया के कारण होता है।",
+        "cure": "Use copper-based bactericides and resistant varieties.",
+        "cure_hi": "तांबा युक्त जीवाणुनाशकों और प्रतिरोधी किस्मों का प्रयोग करें।"
+    },
+    {
+        "name": "Pepper,_bell___healthy",
+        "name_hi": "शिमला मिर्च - स्वस्थ (Healthy)",
+        "cause": "No disease present.",
+        "cause_hi": "कोई बीमारी नहीं। पौधा स्वस्थ है।",
+        "cure": "Maintain good cultural practices for optimal health.",
+        "cure_hi": "अच्छी देखभाल जारी रखें।"
+    },
+    {
+        "name": "Potato___Early_blight",
+        "name_hi": "आलू - अगेती झुलसा (Early Blight)",
+        "cause": "Fungus Alternaria solani.",
+        "cause_hi": "यह अल्टरनेरिया सोलानी फंगस के कारण होता है।",
+        "cure": "Apply fungicides and practice crop rotation.",
+        "cure_hi": "फफूंदनाशक का प्रयोग करें और फसल चक्र अपनाएं।"
+    },
+    {
+        "name": "Potato___Late_blight",
+        "name_hi": "आलू - पछेती झुलसा (Late Blight)",
+        "cause": "Pathogen Phytophthora infestans.",
+        "cause_hi": "यह फाइटोफ्थोरा इन्फेस्टन्स नामक रोगाणु के कारण होता है।",
+        "cure": "Use resistant varieties and fungicides.",
+        "cure_hi": "प्रतिरोधी किस्मों और फफूंदनाशकों का प्रयोग करें।"
+    },
+    {
+        "name": "Potato___healthy",
+        "name_hi": "आलू - स्वस्थ (Healthy)",
+        "cause": "No disease present.",
+        "cause_hi": "कोई बीमारी नहीं। पौधा स्वस्थ है।",
+        "cure": "Maintain good cultural practices for optimal health.",
+        "cure_hi": "अच्छी देखभाल जारी रखें।"
+    },
+    {
+        "name": "Raspberry___healthy",
+        "name_hi": "रास्पबेरी - स्वस्थ (Healthy)",
+        "cause": "No disease present.",
+        "cause_hi": "कोई बीमारी नहीं। पौधा स्वस्थ है।",
+        "cure": "Maintain good cultural practices for optimal health.",
+        "cure_hi": "अच्छी देखभाल जारी रखें।"
+    },
+    {
+        "name": "Soybean___healthy",
+        "name_hi": "सोयाबीन - स्वस्थ (Healthy)",
+        "cause": "No disease present.",
+        "cause_hi": "कोई बीमारी नहीं। पौधा स्वस्थ है।",
+        "cure": "Maintain good cultural practices for optimal health.",
+        "cure_hi": "अच्छी देखभाल जारी रखें।"
+    },
+    {
+        "name": "Squash___Powdery_mildew",
+        "name_hi": "लौकी/कद्दू - पाउडरी मिल्ड्यू (Powdery Mildew)",
+        "cause": "Fungal pathogens including Erysiphe cichoracearum.",
+        "cause_hi": "यह एक फंगस के कारण होता है जो सफेद पाउडर जैसा दिखता है।",
+        "cure": "Apply sulfur-based fungicides and maintain good air circulation.",
+        "cure_hi": "सल्फर युक्त फफूंदनाशक का प्रयोग करें।"
+    },
+    {
+        "name": "Strawberry___Leaf_scorch",
+        "name_hi": "स्ट्रॉबेरी - लीफ स्कॉर्च (Leaf Scorch)",
+        "cause": "Fungus Diplocarpon earlianum.",
+        "cause_hi": "यह डिप्लोकार्पोन अर्लियानम फंगस के कारण होता है।",
+        "cure": "Remove infected leaves and apply fungicides.",
+        "cure_hi": "संक्रमित पत्तियों को हटा दें और फफूंदनाशक डालें।"
+    },
+    {
+        "name": "Strawberry___healthy",
+        "name_hi": "स्ट्रॉबेरी - स्वस्थ (Healthy)",
+        "cause": "No disease present.",
+        "cause_hi": "कोई बीमारी नहीं। पौधा स्वस्थ है।",
+        "cure": "Maintain good cultural practices for optimal health.",
+        "cure_hi": "अच्छी देखभाल जारी रखें।"
+    },
+    {
+        "name": "Tomato___Bacterial_spot",
+        "name_hi": "टमाटर - बैक्टीरियल स्पॉट (Bacterial Spot)",
+        "cause": "Bacterium Xanthomonas spp.",
+        "cause_hi": "यह Xanthomonas बैक्टीरिया के कारण होता है।",
+        "cure": "Apply copper-based bactericides and practice crop rotation.",
+        "cure_hi": "तांबा युक्त जीवाणुनाशक का प्रयोग करें और फसल बदल कर लगाएं।"
+    },
+    {
+        "name": "Tomato___Early_blight",
+        "name_hi": "टमाटर - अगेती झुलसा (Early Blight)",
+        "cause": "Fungus Alternaria solani.",
+        "cause_hi": "यह अल्टरनेरिया सोलानी फंगस के कारण होता है।",
+        "cure": "Apply fungicides and remove infected leaves.",
+        "cure_hi": "फफूंदनाशक का छिड़काव करें और संक्रमित पत्तियों को हटा दें।"
+    },
+    {
+        "name": "Tomato___Late_blight",
+        "name_hi": "टमाटर - पछेती झुलसा (Late Blight)",
+        "cause": "Pathogen Phytophthora infestans.",
+        "cause_hi": "यह फाइटोफ्थोरा इन्फेस्टन्स के कारण होता है जो ठंडे गीले मौसम में फैलता है।",
+        "cure": "Use resistant varieties and fungicides.",
+        "cure_hi": "प्रतिरोधी किस्मों और फफूंदनाशकों का प्रयोग करें।"
+    },
+    {
+        "name": "Tomato___Leaf_Mold",
+        "name_hi": "टमाटर - लीफ मोल्ड (Leaf Mold)",
+        "cause": "Fungus Passalora fulva.",
+        "cause_hi": "यह फंगस के कारण होता है, अक्सर ग्रीनहाउस में।",
+        "cure": "Apply fungicides and ensure good ventilation.",
+        "cure_hi": "फफूंदनाशक का प्रयोग करें और हवा आने-जाने दें।"
+    },
+    {
+        "name": "Tomato___Septoria_leaf_spot",
+        "name_hi": "टमाटर - सेप्टोरिया (Septoria Leaf Spot)",
+        "cause": "Fungus Septoria lycopersici.",
+        "cause_hi": "यह सेप्टोरिया लाइकोपर्सिसी फंगस के कारण होता है।",
+        "cure": "Remove infected leaves and apply fungicides.",
+        "cure_hi": "संक्रमित पत्तियों को हटा दें और फफूंदनाशक का प्रयोग करें।"
+    },
+    {
+        "name": "Tomato___Spider_mites Two-spotted_spider_mite",
+        "name_hi": "टमाटर - मकड़ी घुन (Spider Mites)",
+        "cause": "Spider mites Tetranychus urticae.",
+        "cause_hi": "ये छोटे कीड़े (माइट्स) होते हैं जो पत्तियों का रस चूसते हैं।",
+        "cure": "Use miticides or insecticidal soaps.",
+        "cure_hi": "कीटनाशक साबुन या माइटिसाइड का प्रयोग करें।"
+    },
+    {
+        "name": "Tomato___Target_Spot",
+        "name_hi": "टमाटर - टारगेट स्पॉट (Target Spot)",
+        "cause": "Fungus Corynespora cassiicola.",
+        "cause_hi": "यह कोरिनेस्पोरा कैसीकोला फंगस के कारण होता है।",
+        "cure": "Apply fungicides and ensure good air circulation.",
+        "cure_hi": "फफूंदनाशक का प्रयोग करें और हवादार जगह रखें।"
+    },
+    {
+        "name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+        "name_hi": "टमाटर - मरोड़िया रोग (Yellow Leaf Curl Virus)",
+        "cause": "Virus spread by whiteflies.",
+        "cause_hi": "यह वायरस सफेद मक्खी द्वारा फैलता है।",
+        "cure": "Control whitefly population and use resistant varieties.",
+        "cure_hi": "सफेद मक्खी को रोकें और प्रतिरोधी किस्में लगाएं।"
+    },
+    {
+        "name": "Tomato___Tomato_mosaic_virus",
+        "name_hi": "टमाटर - मोज़ेक वायरस (Mosaic Virus)",
+        "cause": "Virus transmitted through contact and contaminated tools.",
+        "cause_hi": "यह एक वायरस है जो छूने या गंदे औजारों से फैलता है।",
+        "cure": "Remove infected plants and sterilize tools.",
+        "cure_hi": "संक्रमित पौधों को उखाड़ दें और औजारों को साफ रखें।"
+    },
+    {
+        "name": "Tomato___healthy",
+        "name_hi": "टमाटर - स्वस्थ (Healthy)",
+        "cause": "No disease present.",
+        "cause_hi": "कोई बीमारी नहीं। पौधा स्वस्थ है।",
+        "cure": "Maintain good cultural practices for optimal health.",
+        "cure_hi": "अच्छी देखभाल जारी रखें।"
+    }
+]
